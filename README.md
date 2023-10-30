@@ -10,4 +10,4 @@ Bir diğer kısım ise .json uzantılı dosya oluşturmadan direkt url vererek d
 Yaklaşık 1.5 gündür resimleri indirmeye çalışıyorum fakat bir türlü beceremedim, resmin adresini websitesinden alabiliyorum fakat indirmeye gelince indiremiyorum. Basit bir işlem olduğunu biliyorum fakat bir türlü çözemedim.
 Son olarak ise neredeyse istenilen her veri websitesinden çekilebildiğini gördüm ve ihtiyaca göre düzenlenebilir ben test için son durumda bu şekilde bıraktım.
 
-Proje 4 gün yaklaşık 6-7 saat uğraştım ve 1dk bile sıkıldığımı hatırlamıyorum. Böyle bir fırsat veridiğiniz için teşekkür ederim. İyi çalışmalar. 
+Proje için 4 gün yaklaşık 6-7 saat uğraştım ve 1dk bile sıkıldığımı hatırlamıyorum. Böyle bir fırsat verdiğiniz için teşekkür ederim. İyi çalışmalar. 
